@@ -1,0 +1,8 @@
+{
+  "name": "test-es6",
+  "version": "1.0.0",
+  "description": "Only for purpose of practice es6",
+  "main": "index.js",
+  "author": "Alexei",
+  "license": "MIT"
+}
