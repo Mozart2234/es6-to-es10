@@ -4,5 +4,6 @@
   "description": "Only for purpose of practice es6",
   "main": "index.js",
   "author": "Alexei",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
